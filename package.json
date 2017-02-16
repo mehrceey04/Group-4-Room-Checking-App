@@ -1,0 +1,19 @@
+{
+  "name": "room-checking-app",
+  "version": "1.0.0",
+  "description": "An application that enable users to check availability of rooms and book rooms",
+  "main": "meeting.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrceey04/Group-4-Room-Checking-App.git"
+  },
+  "author": "Mercy, Faith, Imisi, Tobi, Dolapo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehrceey04/Group-4-Room-Checking-App/issues"
+  },
+  "homepage": "https://github.com/mehrceey04/Group-4-Room-Checking-App#readme"
+}

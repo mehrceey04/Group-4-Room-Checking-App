@@ -1,0 +1,22 @@
+#container{
+	background-color: #7070db;
+}
+#body{
+	border-color: #ccc;
+	border-radius: 10px;
+	border-style: double;
+  background-color:#ffffff; 
+  width: 600px;
+  height: 670px;
+}
+
+#feed{
+  font-family: verdana;
+  font-size: 45px;
+  color: #b3b3cc;
+}
+#words{
+	font-family: verdana;
+	font-size: 20px;
+	color: #b3b3cc;
+}
